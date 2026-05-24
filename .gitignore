@@ -10,3 +10,6 @@ wheels/
 .venv
 *.zip
 *.pdf
+images/
+AINews/
+notes.txt
